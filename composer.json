@@ -1,0 +1,30 @@
+{
+    "name": "conquer/fontawesome",
+    "description": "Conquer fontawesome widget",
+    "keywords": ["yii2", "extension", "widget", "fontawesome"],
+    "homepage": "https://github.com/borodulin/fontawesome",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Borodulin",
+            "email": "borodulin@gmail.com",
+            "homepage": "https://github.com/borodulin/fontawesome"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+          "dev-master": "1.0.0.x-dev"
+        }
+      },
+    "require": {
+    	"php": ">=5.4.0",
+    	"yiisoft/yii2": "*",
+    	"bower-asset/fontawesome": ">=4.3.0"
+    },
+	"autoload": {
+		"psr-4": {
+			"conquer\\fontawesome\\": ""
+		}
+	}
+}
