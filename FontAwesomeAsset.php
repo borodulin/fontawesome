@@ -1,8 +1,8 @@
 <?php
 /**
- * @link https://github.com/borodulin/fontawesome
+ * @link https://github.com/borodulin/yii2-fontawesome
  * @copyright Copyright (c) 2015 Andrey Borodulin
- * @license https://github.com/borodulin/fontawesome/blob/master/LICENSE.md
+ * @license https://github.com/borodulin/yii2-fontawesome/blob/master/LICENSE.md
  */
 namespace conquer\fontawesome
 ;

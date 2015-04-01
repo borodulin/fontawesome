@@ -2,14 +2,14 @@
     "name": "conquer/fontawesome",
     "description": "Conquer fontawesome widget",
     "keywords": ["yii2", "extension", "widget", "fontawesome"],
-    "homepage": "https://github.com/borodulin/fontawesome",
+    "homepage": "https://github.com/borodulin/yii2-fontawesome",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
             "name": "Andrey Borodulin",
             "email": "borodulin@gmail.com",
-            "homepage": "https://github.com/borodulin/fontawesome"
+            "homepage": "https://github.com/borodulin/yii2-fontawesome"
         }
     ],
     "extra": {
