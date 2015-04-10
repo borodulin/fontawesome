@@ -1,6 +1,6 @@
 {
     "name": "conquer/fontawesome",
-    "description": "Conquer fontawesome widget",
+    "description": "Yii2 fontawesome widget",
     "keywords": ["yii2", "extension", "widget", "fontawesome"],
     "homepage": "https://github.com/borodulin/yii2-fontawesome",
     "type": "yii2-extension",
